@@ -27,7 +27,18 @@ Target:
 
 num. Diagnosis of heart disease (0 = absence, 1, 2, 3, 4 = present).
 ## Analysis/findings
-The average age in disease group is higher and most ofthe cases occur in 55-65 age group. 
+![image](https://user-images.githubusercontent.com/77829409/115139384-80f89000-9fe6-11eb-80ed-ab13ad9b9452.png)
+![image](https://user-images.githubusercontent.com/77829409/115139393-8e157f00-9fe6-11eb-8c16-f18b4b972d6a.png)
+![image](https://user-images.githubusercontent.com/77829409/115139399-92419c80-9fe6-11eb-8a83-ed042ada2c0d.png)
+![image](https://user-images.githubusercontent.com/77829409/115139404-953c8d00-9fe6-11eb-9ae1-3967bd4571db.png)
+![image](https://user-images.githubusercontent.com/77829409/115139408-9968aa80-9fe6-11eb-9a64-7900a5aeacda.png)
+![image](https://user-images.githubusercontent.com/77829409/115139412-9e2d5e80-9fe6-11eb-9c99-518bcf9028f4.png)
+![image](https://user-images.githubusercontent.com/77829409/115139415-a1c0e580-9fe6-11eb-9ec7-6eb0200b960c.png)
+![image](https://user-images.githubusercontent.com/77829409/115139420-a71e3000-9fe6-11eb-8377-656694765ad3.png)
+![image](https://user-images.githubusercontent.com/77829409/115139422-ab4a4d80-9fe6-11eb-8743-6c2808152673.png)
+![image](https://user-images.githubusercontent.com/77829409/115139426-adaca780-9fe6-11eb-82c1-b96d0820f5e7.png)
+
+The average age in disease group is higher and most ofthe cases occur in 55-65 age group. 
 The average resting BP is higher in disease group. 
 In disease group, ST depression induced by exercise is larger.
 Heart disease occur more in males.
